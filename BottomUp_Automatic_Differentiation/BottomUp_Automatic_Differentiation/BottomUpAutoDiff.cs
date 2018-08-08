@@ -6,5 +6,7 @@ namespace BottomUp_Automatic_Differentiation
         public BottomUpAutoDiff()
         {
         }
+        //operator
+
     }
 }
